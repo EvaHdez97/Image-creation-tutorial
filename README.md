@@ -4,7 +4,9 @@ This is a guide on how to create a Docker image using custom workflow registry a
 
 ## Repository structure
 
-1. How to determine your processor microarchitecture
-2. Download the image creation tutorial from eflows4hpc and customize it
-3. How to modify the created image and push it to a Docker Hub repository
-4. How to convert a docker image to singularity file
+1. How to prepare the workflow registry repository and software catalog repository
+2. How to determine your processor microarchitecture
+3. Download the image creation tutorial from eflows4hpc and customize it
+4. How to modify the created image and push it to a Docker Hub repository
+5. How to convert a docker image to singularity file
+6. How to upload a Singularity image to an HPC system and run it (IN PROGRESS)
