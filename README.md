@@ -23,3 +23,5 @@ IMPORTANT: If you have PyPI packages and Spack packages listed in your eflows4hp
 4. How to modify the created image and push it to a Docker Hub repository
 5. How to convert a docker image to singularity file
 6. How to upload a Singularity image to an HPC system and run it (IN PROGRESS)
+
+If you have doubts please contact WP2.
