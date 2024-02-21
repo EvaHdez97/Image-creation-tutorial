@@ -4,7 +4,7 @@ This is a guide on how to create a Docker image using custom workflow registry a
 
 IMPORTANT: THIS TUTORIAL IS ONLY FOR LINUX/AMD64 AND LINUX/ARM64 PLATFORMS. 
 
-IMPORTANT: If you have PyPI packages and Spack packages listed in your eflows4hpc.yaml, ensure that they are compatible with either linux/amd64 or linux/arm64 architectures.
+IMPORTANT: If you have PyPI packages and Spack packages listed in your eflows4hpc.yaml, ensure that they are compatible with either linux/amd64 or linux/arm64 platforms.
 
 ## Available Architectures
 
