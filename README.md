@@ -6,6 +6,8 @@ IMPORTANT: THIS TUTORIAL IS ONLY FOR LINUX/AMD64 AND LINUX/ARM64 PLATFORMS.
 
 IMPORTANT: If you have PyPI packages and Spack packages listed in your eflows4hpc.yaml, ensure that they are compatible with either linux/amd64 or linux/arm64 platforms.
 
+If you have doubts please contact WP2
+
 ## Available Architectures
 
 "aarch64", "armv8.1a", "armv8.3a", "armv8.5a", "ppc64", "ppcle", "sparc", "x86", "x86_64",
@@ -24,4 +26,3 @@ IMPORTANT: If you have PyPI packages and Spack packages listed in your eflows4hp
 5. How to convert a docker image to singularity file
 6. How to upload a Singularity image to an HPC system and run it (IN PROGRESS)
 
-If you have doubts please contact WP2.
