@@ -1,4 +1,4 @@
-# Tutorial to create a Docker image from workflow registry repository and software catalog repository
+# Tutorial to create a Docker image from workflow registry repository and software catalog repository using Image Creation project from Eflows4HPC
 
 This is a guide on how to create a Docker image using custom workflow registry and software catalog repositories. It will also show how to adapt the source code for image creation, determine the architecture of the PC where the image will be created, modify the image, and export it to "singularity" for use in HPC.
 
