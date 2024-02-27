@@ -22,7 +22,8 @@ If you have doubts please contact WP2
 1. How to prepare the workflow registry repository and software catalog repository
 2. How to determine your processor microarchitecture
 3. Download the image creation tutorial from eflows4hpc and customize it
-4. How to modify the created image and push it to a Docker Hub repository
-5. How to convert a docker image to singularity file
-6. How to upload a Singularity image to an HPC system and run it (IN PROGRESS)
+4. Create docker image using Dockerfile (For software that does not use Spack packages)
+5. How to modify the created image and push it to a Docker Hub repository
+6. How to convert a docker image to singularity file
+7. How to upload a Singularity image to an HPC system and run it (IN PROGRESS)
 
